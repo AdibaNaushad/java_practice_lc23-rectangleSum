@@ -1,4 +1,5 @@
 // Rectangle sum of particular col and row 
+//brute force methode
 
 import java.util.Scanner;
 
